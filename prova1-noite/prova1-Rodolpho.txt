@@ -42,6 +42,7 @@ que comecem com seu nome e termina com o numeral de 1 a 3 com extensão .txt?
 Qual é o ip que aparece no arquivo com mais frequencia e 
 qual ip que aparece no arquivo com menos frequencia?
 Resposta 1 : Mais frequencia: 75.113.188.234
+Menos frequencia: 25.11.109.143
 
 Resposta 2 (qual comando você utilizou? ): uniq -c access.log
 uniq -d access.log
